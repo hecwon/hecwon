@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hecwon
 - 👀 I’m interested in making applications that look cool, provide value, and affect people in meaningful ways!
-- 💞️ I’m looking to collaborate on React Native apps, iOS apps, novel ideas.
+- 💞️ I’m looking to collaborate on React apps, iOS apps, novel ideas.
 - 📫 How to reach me: DM me on Twitter @livelaughcode!
 
 <!---
