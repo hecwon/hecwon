@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hecwon
-- 👀 I’m interested in making applications that look cool, provide value, and affect people in meaningful ways!
-- 💞️ I’m looking to collaborate on React apps, iOS apps, novel ideas.
-- 📫 How to reach me: DM me on Twitter @livelaughcode!
+- 👋 Hi, I’m Hector
+- 🕹️ I’m interested in making applications that provide value/entertainment and affect people in meaningful ways.
+- 💡 If you have an idea you'd like to execute on, please reach out. I'd love to talk.
+- 📫 How to reach me: Contact me at www.hectorwong.dev!
 
 <!---
 hecwon/hecwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
